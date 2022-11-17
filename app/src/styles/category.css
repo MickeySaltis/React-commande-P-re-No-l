@@ -1,0 +1,22 @@
+.mpn-category {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.mpn-category-select {
+    margin-right: 15px;
+    background-color: #d52904;
+    color: #fff;
+    font-weight: 600;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.mpn-category-button {
+    background-color: #d52904;
+    color: #fff;
+    /* border: 0.1rem solid; */
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}

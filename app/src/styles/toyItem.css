@@ -1,0 +1,27 @@
+.mpn-toy-item-cover {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.mpn-toy-item {
+    margin: 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.mpn-toy-item-price {
+    position: absolute;
+    border-radius: 20px 20px 20px 0;
+    background-color: #d52904;
+    color: #fff;
+    padding: 15px;
+    right: 0;
+    top: 0;
+    font-weight: 500;
+}

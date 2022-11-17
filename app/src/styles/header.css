@@ -1,0 +1,11 @@
+.mpn-header {
+    color: #000;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px #000;
+}
+
+.mpn-logo {
+    height: 100px;
+    width: 150px;
+}

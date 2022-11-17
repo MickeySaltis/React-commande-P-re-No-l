@@ -1,0 +1,52 @@
+.mpn-shopping-list {
+    width: 100%;
+}
+
+.mpn-toy-list {
+    list-style-type: none;
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    /* max-width: 800px; */
+}
+
+.mpn-toy-item {
+    border: solid 2px black;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.mpn-sales {
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    font-weight: 500;
+    color: white;
+    padding: 5px 10px;
+    background-color: #d52904;
+}
+
+.mpn-bold {
+    font-weight: bold;
+}
+
+.mpn-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mpn-margin-bottom {
+    margin-bottom: 10px;
+}
+
+.npm-margin-top {
+    margin-top: 10px;
+}
